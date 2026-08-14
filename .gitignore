@@ -1,0 +1,4 @@
+*.o
+flickerV
+*.txt
+!tests/*.txt
